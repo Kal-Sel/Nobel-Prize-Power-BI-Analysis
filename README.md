@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Since I want to become a data analyst, I try to gain experience through a diversity of open source projects. On that path, I am using different tools and techniques to gain insights and eventually solve real world problems. A couple of days ago I've stumbled upon Microsofts' __Power BI__ so I decided immediately that I want to do a project with it. Since the Nobel Prize Awards were taking place at that time, I was thinking that a Nobel Prize Analysis would be a good start with Power BI.  
+Since I want to exceed my analytics skills and knowledge, I try to gain experience through a diversity of open source projects. On that path, I am using different tools and techniques to gain insights and eventually solve real world problems. A couple of days ago I've stumbled upon Microsofts' __Power BI__ so I decided immediately that I want to do a project with it. Since the Nobel Prize Awards were taking place at that time, I was thinking that a Nobel Prize Analysis would be a good start with Power BI.  
 
 ## Description
 
