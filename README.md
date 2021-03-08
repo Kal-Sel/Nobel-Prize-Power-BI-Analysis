@@ -1,5 +1,7 @@
 # Nobel Prize Data Analysis With Power BI
 
+The Dashboard can be accessed [here!](https://app.powerbi.com/view?r=eyJrIjoiODc4MWVhMTEtNjA4NC00NzgzLThiZWMtNzMwNGQzZjNlMzVkIiwidCI6IjdlMWM0MDhjLTkyNDItNDcyYS05NmI4LWQzZjczZWQzYWQyZiJ9)
+
 ## Motivation
 
 Since I want to exceed my analytics skills and knowledge, I try to gain experience through a diversity of open source projects. On that path, I am using different tools and techniques to gain insights and eventually solve real world problems. A couple of days ago I've stumbled upon Microsofts' __Power BI__ so I decided immediately that I want to do a project with it. Since the Nobel Prize Awards were taking place at that time, I was thinking that a Nobel Prize Analysis would be a good start with Power BI.  
